@@ -1,3 +1,10 @@
+以穿越都市修仙类动画为蓝本，不寻常的穿越修仙路
+
+以妖怪卡片收集为主题的收集类游戏
+
+以养生学习为蓝本，以抖音、淘宝上养生、中医类视频为素材，养生修炼之路
+
+
 <div align="center">
   <img src="https://s2.loli.net/2022/06/16/opBDE8Swad5rU3n.png" width="180" height="180" alt="NoneBotPluginLogo">
   <br>
